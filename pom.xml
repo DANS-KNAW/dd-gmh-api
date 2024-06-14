@@ -28,7 +28,7 @@
     <artifactId>dd-gmh-api</artifactId>
     <version>0.1.2-SNAPSHOT</version>
 
-    <name>Dd Gmh Api</name>
+    <name>DD GMH Api</name>
     <url>https://github.com/DANS-KNAW/dd-gmh-api</url>
     <description>NBN resolver API</description>
     <inceptionYear>2024</inceptionYear>
