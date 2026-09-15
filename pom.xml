@@ -30,7 +30,7 @@
 
     <name>DD GMH Api</name>
     <description>NBN resolver API</description>
-    <url>https://github.com/DANS-KNAW/dd-gmh-api</url>
+    <url>https://dans-knaw.github.io/dd-gmh-api</url>
     <inceptionYear>2024</inceptionYear>
 
     <scm>
